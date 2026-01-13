@@ -32,7 +32,7 @@ logging:
 
 eureka:
   instance:
-    instance-id: api-gateways
+    instance-id: api-gateway
     prefer-ip-address: true
   client:
     register-with-eureka: true
